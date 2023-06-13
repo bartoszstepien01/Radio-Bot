@@ -1,0 +1,6 @@
+beautifulsoup4==4.12.2
+discord.py==2.3.0
+discord_py_slash_command==3.0.3
+pycryptodome==3.18.0
+requests==2.26.0
+wavelink==0.9.0
